@@ -10,7 +10,11 @@ image:
 Here is as basic sample modeling the magnetic noise floor of the earth in one general area. On the X axis is the frequency in KHz, and on the Y access is the dB level. 
 
 ```yaml
-image: noiseflooreaston.png
+image: 
+feature: noiseflooreaston.png
+thumb: noiseflooreaston.png
+credit: C Duncan
+
 
 ```
 
