@@ -10,8 +10,8 @@ image:
 Here is as basic sample modeling the magnetic noise floor of the earth in one general area. On the X axis is the frequency in KHz, and on the Y access is the dB level. 
 
 ```yaml
-image:
-  background: noiseflooreaston.png
+image: noiseflooreaston.png
+
 ```
 
 The data is collected via six axis directional sensor and stored in a Midas file, then processed the a Fast Fourier Transform script to produce the plot. This 'noise' is produced by everything from lightning strikes, to the earths magnetic fields and any other device. At the lower end the length of the waves are exceptionally long and may come from anywhere. 
