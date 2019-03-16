@@ -16,11 +16,7 @@ Here is as basic sample modeling the magnetic noise floor of the earth in one ge
 
 
 ```yaml
-image: 
-feature: noiseflooreaston.png
-thumb: noiseflooreaston.png
 credit: C Duncan
-
 ```
 
 The data is collected via six axis directional sensor and stored in a Midas file, then processed the a Fast Fourier Transform script to produce the plot. This 'noise' is produced by everything from lightning strikes, to the earths magnetic fields and any other device. At the lower end the length of the waves are exceptionally long and may come from anywhere. 
