@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baselining magnetic noise floors
+title: Baselining Magnetic Noise Floors
 description: "A basic sampling of Magnetic noise"
 tags: [B-field]
 image:
